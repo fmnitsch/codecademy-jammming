@@ -3,11 +3,12 @@
     flex-direction: column;
     align-items: center;
     overflow-y: scroll;
-    width: 37%;
+    width: 35%;
     max-height: 950px;
     padding: 2.27rem 1.16rem;
     background-color: rgba(1, 12, 63, 0.7);
     box-shadow: 0 4px 2px 2px #000000;
+    margin: 10px;
   }
   
   .Playlist input {
@@ -20,11 +21,16 @@
     font-size: 1.55rem;
     color: #fff;
   }
-  
+
+  .button-container {
+    display: flex;
+  }
+
   .Playlist-save {
     cursor: pointer;
     width: 10rem;
     padding: .77rem 0;
+    margin: 5px;
     border-radius: 54px;
     border-width: 0px;
     margin-top: 1.27rem;

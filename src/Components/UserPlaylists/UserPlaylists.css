@@ -1,5 +1,5 @@
-.SearchResults {
-    width: 35%;
+.UserPlaylists {
+    width: 30%;
     height: 950px;
     overflow-y: scroll;
     padding: .88rem;
@@ -14,7 +14,7 @@
   }
   
   @media only screen and (max-width: 1020px) {
-    .SearchResults {
+    .UserPlaylists {
       width: 90%;
       margin-bottom: 2rem;
     }
