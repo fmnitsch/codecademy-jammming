@@ -4,7 +4,7 @@ This is a CodeCademy capstone project in the Web Development career path. It all
 
 ## See it live
 
-To see the project live, head to fnit-jammming.surge.sh/
+To see the project live, head to http://fnit-jammming.surge.sh/
 
 ## Running the app locally
 
